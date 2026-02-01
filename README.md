@@ -24,12 +24,6 @@ synthesis even for previously unseen viewpoints.
 
 ---
 
-<p align="center">
-  <img src="assets/visualize_sample_ours2.jpg" width="720">
-</p>
-
-
-
 ## Method
 
 Bag3D consists of three key stages:
@@ -55,6 +49,10 @@ and well-suited for large-scale product modeling.
 ---
 
 ## Results
+
+<p align="center">
+  <img src="assets/visualize_sample_ours2.jpg" width="720">
+</p>
 
 <p align="center">
   <img src="assets/bag3d_comparison.gif" width="720">
