@@ -25,7 +25,7 @@ synthesis even for previously unseen viewpoints.
 ---
 
 <p align="center">
-  <img src="assets/results.jpg" width="720">
+  <img src="assets/visualize_sample_ours2.jpg" width="720">
 </p>
 
 
