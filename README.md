@@ -1,13 +1,9 @@
-# Bag3D
-### Training-Free 3D Bag Generation from Dual-View Images and Structured Attributes
+# Bag3D: Training-Free 3D Bag Generation from Dual-View Images and Structured Attributes
+### 
 
 <p align="center">
   <img src="assets/bag3d_generation.gif" width="720">
 </p>
-
-**HUMSCI — where science meets humanity**
-
----
 
 ## Overview
 
@@ -25,6 +21,9 @@ synthesis even for previously unseen viewpoints.
 ---
 
 ## Method
+<p align="center">
+  <img src="assets/model.jpg" width="720">
+</p>
 
 Bag3D consists of three key stages:
 
