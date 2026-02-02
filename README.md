@@ -80,7 +80,7 @@ Details and access instructions will be provided upon acceptance.
 
 ## Code
 
-The implementation and usage instructions will be released upon acceptance.
+More details will be released upon acceptance.
 
 ---
 
