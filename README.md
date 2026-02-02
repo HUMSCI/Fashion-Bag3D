@@ -2,7 +2,7 @@
 ### 
 
 <p align="center">
-  <img src="assets/bag3d_generation.gif" width="720">
+  <img src="assets/3d_bag_demo.gif" width="720">
 </p>
 
 ## Overview
